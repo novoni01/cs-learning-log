@@ -14,9 +14,9 @@ Track progress and consistency towards future tech roles
 
 | Category | Progress | Notes |
 |---|---|---|
-| Leetcode | 0 / 150 | repo: my-leetcode-sol |
-| Python solutions | 0 | |
-| C++ solutions | 0 | |
+| Total Leetcode Solved | 0 / 150 | repo: my-leetcode-sol |
+| Python Leetcode solutions | 0 | |
+| C++ Leetcode solutions | 0 | |
 | C++ concepts learned | 0 | |
 
 ---
@@ -33,7 +33,9 @@ Track progress and consistency towards future tech roles
 
 | Category | Progress |
 |---|---|
-| Leetcode solved | 0 |
+| Total Leetcode Solved | 0 | repo: my-leetcode-sol |
+| Python Leetcode solutions | 0 | |
+| C++ Leetcode solutions | 0 | |
 | Open source PRs | 0 |
 | Systems concepts covered | 0 | 
 
@@ -48,7 +50,9 @@ Track progress and consistency towards future tech roles
 
 | Category | Progress |
 |---|---|
-| Total Leetcode solved | 0 |
+| Total Leetcode Solved | 0 | repo: my-leetcode-sol |
+| Python Leetcode solutions | 0 | |
+| C++ Leetcode solutions | 0 | |
 
 ---
 
